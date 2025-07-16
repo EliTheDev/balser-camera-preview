@@ -20,7 +20,7 @@ A lightweight Python utility I put together for previewing live camera feeds fro
 
 Run the script:
 ```bash
-python basler_preview.py
+python preview.py
 ```
 
 **Controls:**
